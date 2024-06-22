@@ -41,7 +41,7 @@ Project Management: Developed skills in managing and delivering a comprehensive 
 This project has been a significant learning experience, reinforcing the power of data in driving strategic decisions and fostering customer satisfaction. 
 Check out the full presentation video to dive deeper into our insights and recommendations.
 
-📽️ Watch the Presentation Here: https://youtu.be/T_As0WuvLA4
+📽️ Watch the Presentation Here: https://www.youtube.com/embed/eUikI02_TLc?si=cl9j4vdrOqLB4FHH
 
 #PowerBI #DataAnalytics #Insurance #CustomerInsights #BusinessIntelligence #StrategicPlanning #DataDrivenDecisions 
 #Dashboard #Presentation #Internship #Codebasics #MicrosoftPowerPoint #MicrosoftClipchamp #Gratitude
